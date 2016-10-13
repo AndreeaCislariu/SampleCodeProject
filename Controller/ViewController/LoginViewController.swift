@@ -8,7 +8,7 @@
 
 import UIKit
 
-class LoginViewControllerBk: GAITrackedViewController {
+class LoginViewController: GAITrackedViewController {
     @IBOutlet weak var scrollView: UIScrollView!
     @IBOutlet weak var headerLabel: UILabel!
     @IBOutlet weak var emailTextField: UITextField!
